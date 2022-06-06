@@ -1,7 +1,9 @@
 [![Logo.png](https://i.postimg.cc/TPvjD7ws/Logo.png)](https://postimg.cc/v4X6Rv57)
 
 
-# Curso de Sistemas Operativos
+# <div align="center"> 
+  Curso de Sistemas Operativos
+</div>
 
 <div align="center">
 Gabriel Omar Nuñez Pizarro <br>
