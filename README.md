@@ -2,11 +2,11 @@
 
 <div align="center">
 # Curso de Sistemas Operativos
-  
+</div>
   
 Gabriel Omar Nuñez Pizarro <br>
 Universidad Latinoamericana de Ciencia y Tecnología <br>
 ULACIT <br>
 2022
   
-</div>
+
