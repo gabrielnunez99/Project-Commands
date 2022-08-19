@@ -15,14 +15,14 @@ ULACIT <br>
 Para saber la IP del dispositivo
 > *Ip addr* 
 
-Creat arcvhios de texto
+Crear arcvhios de texto
 > *nano xxx.txt*
 
 Listar directorios
-> *    ls        * 
+> *ls* 
 
 Ver información de archivos 
-> *      ls -l      *
+> *ls -l*
 
 Concatenar comandos
 > *      |      * 
