@@ -40,7 +40,7 @@ Moverse entre carpetas
 > *cd* 
 
 Devolveres entre carpetas
-> * cd..*
+> *cd..*
 
 
 
