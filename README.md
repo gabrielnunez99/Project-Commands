@@ -17,3 +17,24 @@ Para saber la IP del dispositivo
 
 Creat arcvhios de texto
 > *nano xxx.txt*
+
+Listar directorios
+> *    ls        * 
+
+Ver información de archivos 
+> *      ls -l      *
+
+Concatenar comandos
+> *      |      * 
+
+Buscar procesos
+> *     ps -aux | grep "XXXX"       *
+
+Crear carpetas/directorios
+> *    mkdir XXXX        * 
+
+Ver donde estamos actualmente
+> *     pwd       *
+
+Moverse entre carpetas
+> *           cd * 
