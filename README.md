@@ -14,6 +14,7 @@ ULACIT <br>
 
 Para saber la IP del dispositivo
 > *Ip addr* 
+>[![Virtual-Box-VM-Jc9f-Vwf-Oml.png](https://i.postimg.cc/qvy8MH1f/Virtual-Box-VM-Jc9f-Vwf-Oml.png)](https://postimg.cc/87kFt98w)
 
 Crear arcvhios de texto
 > *nano xxx.txt*
