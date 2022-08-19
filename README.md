@@ -26,13 +26,15 @@ Listar directorios
 
 Ver información de archivos 
 > *ls -l*
+[![Virtual-Box-VM-uanwu-BGSmp.png](https://i.postimg.cc/zvPGrvsC/Virtual-Box-VM-uanwu-BGSmp.png)](https://postimg.cc/p5zHQWXr)
 
 Concatenar comandos
-> *|* 
+> | 
+[![Virtual-Box-VM-lb3-Ik-XTW3u.png](https://i.postimg.cc/66Hr30w0/Virtual-Box-VM-lb3-Ik-XTW3u.png)](https://postimg.cc/0rwMX7zM)
 
 Buscar procesos
 > *ps -aux | grep "XXXX"*
-
+[![Virtual-Box-VM-lb3-Ik-XTW3u.png](https://i.postimg.cc/66Hr30w0/Virtual-Box-VM-lb3-Ik-XTW3u.png)](https://postimg.cc/0rwMX7zM)
 Crear carpetas/directorios
 > *mkdir XXXX* 
 
