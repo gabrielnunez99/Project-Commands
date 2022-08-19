@@ -11,3 +11,6 @@ ULACIT <br>
 
 
 ## _Comandos_
+
+Ip addr 
+> Para saber la ip del dispositivo
