@@ -22,6 +22,7 @@ Crear arcvhios de texto
 
 Listar directorios
 > *ls* 
+[![Virtual-Box-VM-HPcy4-DP3-Ky.png](https://i.postimg.cc/s2fqpmQ2/Virtual-Box-VM-HPcy4-DP3-Ky.png)](https://postimg.cc/bZMmPQRX)
 
 Ver información de archivos 
 > *ls -l*
