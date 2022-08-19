@@ -25,16 +25,23 @@ Ver información de archivos
 > *ls -l*
 
 Concatenar comandos
-> *      |      * 
+> *|* 
 
 Buscar procesos
-> *     ps -aux | grep "XXXX"       *
+> *ps -aux | grep "XXXX"*
 
 Crear carpetas/directorios
-> *    mkdir XXXX        * 
+> *mkdir XXXX* 
 
 Ver donde estamos actualmente
-> *     pwd       *
+> *pwd*
 
 Moverse entre carpetas
-> *           cd * 
+> *cd* 
+
+Devolveres entre carpetas
+> * cd..*
+
+
+
+
