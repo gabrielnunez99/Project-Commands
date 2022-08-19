@@ -14,11 +14,11 @@ ULACIT <br>
 
 Para saber la IP del dispositivo
 > *Ip addr* 
->[![Virtual-Box-VM-Jc9f-Vwf-Oml.png](https://i.postimg.cc/qvy8MH1f/Virtual-Box-VM-Jc9f-Vwf-Oml.png)](https://postimg.cc/87kFt98w)
+[![Virtual-Box-VM-SYx-Yf-TLe-CE.png](https://i.postimg.cc/jjj3Wjmw/Virtual-Box-VM-SYx-Yf-TLe-CE.png)](https://postimg.cc/sMt4q3Vs)
 
 Crear arcvhios de texto
 > *nano xxx.txt*
-[![Virtual-Box-VM-k6-Kz9c-APs2.png](https://i.postimg.cc/tRzRbS3r/Virtual-Box-VM-k6-Kz9c-APs2.png)](https://postimg.cc/grnbqKBR)
+[![Virtual-Box-VM-o-Rl-XWax-Ynt.png](https://i.postimg.cc/RZgXzBhM/Virtual-Box-VM-o-Rl-XWax-Ynt.png)](https://postimg.cc/DSbqqR1D)
 
 Listar directorios
 > *ls* 
