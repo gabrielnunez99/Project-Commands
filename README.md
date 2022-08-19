@@ -87,3 +87,26 @@ Solo ver el archivo de texto
 [![Virtual-Box-VM-9-SBvz-As-VRV.png](https://i.postimg.cc/P5t9nHbx/Virtual-Box-VM-9-SBvz-As-VRV.png)](https://postimg.cc/dLx4GzxP)
 
 
+Instalar sl
+> *sudo apt install sl*
+[![Virtual-Box-VM-BLBB3-NDSRE.png](https://i.postimg.cc/qRnjCDcS/Virtual-Box-VM-BLBB3-NDSRE.png)](https://postimg.cc/yg1FMPby)
+
+Ver comandos ejectuados
+> *history*
+[![Virtual-Box-VM-ii-Vv-W8odz-J.png](https://i.postimg.cc/SRg8XcPH/Virtual-Box-VM-ii-Vv-W8odz-J.png)](https://postimg.cc/WqJtCqT7)
+
+Guardar comandos
+> *history > xxxx.txt*
+[![Virtual-Box-VM-Qb-G8-V3g-WYc.png](https://i.postimg.cc/GhSGdJGy/Virtual-Box-VM-Qb-G8-V3g-WYc.png)](https://postimg.cc/qzyzGKmJ)
+
+Mostrar n cantidad de lineas
+> *head -n x xxxx.txt*
+[![Virtual-Box-VM-H9i-FZV8r-Xj.png](https://i.postimg.cc/8PsfKJ9P/Virtual-Box-VM-H9i-FZV8r-Xj.png)](https://postimg.cc/8jQCs5Tq)
+
+Ver poco a poco un archivo
+> *cat xxxx.txt |more*
+[![Virtual-Box-VM-p-Rd-XUy7-EQ2.png](https://i.postimg.cc/G2q9zdjy/Virtual-Box-VM-p-Rd-XUy7-EQ2.png)](https://postimg.cc/Fdk9Ht8r)
+
+Copiar un archivo en otra carpeta 
+> *cp xxxx.txt xxxx/xxxx*
+[![Virtual-Box-VM-ijeo-Xdb-Yp-Z.png](https://i.postimg.cc/6Q68Z8rX/Virtual-Box-VM-ijeo-Xdb-Yp-Z.png)](https://postimg.cc/CRtMTLrP)
