@@ -14,3 +14,4 @@ ULACIT <br>
 
 Para saber la IP del dispositivo
 > *Ip addr* 
+! [LINUX](https://voipmagazine.files.wordpress.com/2014/10/linux.png)
