@@ -18,6 +18,7 @@ Para saber la IP del dispositivo
 
 Crear arcvhios de texto
 > *nano xxx.txt*
+[![Virtual-Box-VM-k6-Kz9c-APs2.png](https://i.postimg.cc/tRzRbS3r/Virtual-Box-VM-k6-Kz9c-APs2.png)](https://postimg.cc/grnbqKBR)
 
 Listar directorios
 > *ls* 
