@@ -268,10 +268,10 @@ fi
 
 |**Parámetros**|
 | --- |
-#!/bin/bash
+| #!/bin/bash
 echo "Total arguments : $#"
 echo "1st Argument = $1"
-echo "2nd argument = $2"
+echo "2nd argument = $2" |
 
 
 |**For**|
@@ -324,12 +324,12 @@ zenity --entry --title "Name request" --text "Please enter your name:"
 |**Funciones**|
 | --- |
 
-#!/bin/bash
+| #!/bin/bash
 function F1()
 {
 echo 'I like bash programming'
 }
-F1
+F1 |
 
 
 |**Leer archivos**|
