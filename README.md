@@ -293,7 +293,7 @@ done
 
 |**While**|
 | --- |
-#!/bin/bash
+|#!/bin/bash
 valid=true
 count=1
 while [ $valid ]
@@ -305,7 +305,7 @@ do
     fi
 ((count++))
 done
-echo "Terminado"
+echo "Terminado"|
 
 
 
@@ -324,20 +324,19 @@ zenity --entry --title "Name request" --text "Please enter your name:"
 |**Funciones**|
 | --- |
 
-#!/bin/bash
+|#!/bin/bash
 function F1()
 {
 echo 'I like bash programming'
 }
 
-F1
+F1|
 
 
 |**Leer archivos**|
 | --- |
-#!/bin/bash
+|#!/bin/bash
 file='book.txt'
 while read line; do
 echo $line
-done < $file
-
+done < $file|
