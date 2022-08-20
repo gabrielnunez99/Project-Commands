@@ -189,11 +189,7 @@ Ejemplos vistos en clase
 
 |**Imprimir en consola**|
 | --- |
-| #!/bin/bash1 
-echo "Nueva línea" 
-echo "Imprimir en una linea nueva"
-echo -n "Imprimir en la misma línea"
-echo -e "\nUtilizar caracteres \nespeciales\t separadores"|
+| [![chrome-4a-Sg1-Bt6b-I.png](https://i.postimg.cc/t4k1Q81z/chrome-4a-Sg1-Bt6b-I.png)](https://postimg.cc/CRZMbPsZ) |
 
 |**Creación de variables**|
 | --- |
