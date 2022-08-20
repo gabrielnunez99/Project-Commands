@@ -186,10 +186,11 @@ Crear una imagen a partir de un archivo docker especifico
 
 Ejemplos vistos en clase
 
-| Código | Descripción  |
-| --- | --- |
+| Código |
+| --- |
+|Imprimir en consola|
 | #!/bin/bash 
 echo "Nueva línea" 
 echo "Imprimir en una linea nueva"
 echo -n "Imprimir en la misma línea"
-echo -e "\nUtilizar caracteres \nespeciales\t separadores" | Este comando funciona para saber la ip del dispositivo |
+echo -e "\nUtilizar caracteres \nespeciales\t separadores" 
