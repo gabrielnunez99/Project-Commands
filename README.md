@@ -9,6 +9,9 @@ ULACIT <br>
 2022
 </div>
 
+| Comando | Descripción o Funcionalidad |
+| --- | --- |
+| Ip addr  | Este comando funciona para saber la ip del dispositivo |
 
 ## _Comandos_
 
