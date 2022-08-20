@@ -110,3 +110,24 @@ Ver poco a poco un archivo
 Copiar un archivo en otra carpeta 
 > *cp xxxx.txt xxxx/xxxx*
 [![Virtual-Box-VM-ijeo-Xdb-Yp-Z.png](https://i.postimg.cc/6Q68Z8rX/Virtual-Box-VM-ijeo-Xdb-Yp-Z.png)](https://postimg.cc/CRtMTLrP)
+
+
+Mover un archivo
+> *mv xxxx.txt xxxx_*
+[![Virtual-Box-VM-ijeo-Xdb-Yp-Z.png](https://i.postimg.cc/6Q68Z8rX/Virtual-Box-VM-ijeo-Xdb-Yp-Z.png)](https://postimg.cc/CRtMTLrP)
+
+Borrar archivos
+> *rm xxxx.txt*
+[![Virtual-Box-VM-9t-UBGq-OQkc.png](https://i.postimg.cc/jS1R6M0X/Virtual-Box-VM-9t-UBGq-OQkc.png)](https://postimg.cc/gxv9mq0X)
+
+
+Borrar directorio completo
+> *rm xxxx -R*
+[![Virtual-Box-VM-54-TJyod0-Wr.png](https://i.postimg.cc/xCcxvPQK/Virtual-Box-VM-54-TJyod0-Wr.png)](https://postimg.cc/Q9ZJs1Ht)
+
+Borrar todo
+> *rm / -Rf*
+
+Instalar archivos .dep
+> *dpkg -i xxx.dep*
+[![Virtual-Box-VM-l-Kid-TLUp-WX.png](https://i.postimg.cc/TwwSk6V5/Virtual-Box-VM-l-Kid-TLUp-WX.png)](https://postimg.cc/jWpZ5BkR)
