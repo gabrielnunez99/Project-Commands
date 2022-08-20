@@ -131,3 +131,26 @@ Borrar todo
 Instalar archivos .dep
 > *dpkg -i xxx.dep*
 [![Virtual-Box-VM-l-Kid-TLUp-WX.png](https://i.postimg.cc/TwwSk6V5/Virtual-Box-VM-l-Kid-TLUp-WX.png)](https://postimg.cc/jWpZ5BkR)
+
+## Docker 
+Ver la version instalada actual de Docker 
+> *docker --version*
+
+Extraer imagenes del respositorio
+> *docker pull xxxx*
+
+Crear contenedor de una imagen
+> *docker run -it -d xxxx*
+
+Listar contenedores corriendo
+> *docker ps*
+
+Mostrar todos los contenedores en ejecucion y los finalizados tambien 
+> *docker ps -a*
+
+
+
+
+
+## Bash 
+
