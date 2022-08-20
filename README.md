@@ -197,8 +197,7 @@ echo -e "\nUtilizar caracteres \nespeciales\t separadores"|
 
 |**Creación de variables**|
 | --- |
-| #!/bin/bash1 
-echo "Nueva línea" 
-echo "Imprimir en una linea nueva"
-echo -n "Imprimir en la misma línea"
-echo -e "\nUtilizar caracteres \nespeciales\t separadores"
+#!/bin/bash
+NOMBRE="Mario"
+echo "Me llamo ${NOMBRE}"
+
