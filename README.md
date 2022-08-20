@@ -186,11 +186,12 @@ Crear una imagen a partir de un archivo docker especifico
 
 Ejemplos vistos en clase
 
-| Código |
-| --- |
+
 |**Imprimir en consola**|
-| *#!/bin/bash 
+| --- |
+| #!/bin/bash1 
 echo "Nueva línea" 
 echo "Imprimir en una linea nueva"
 echo -n "Imprimir en la misma línea"
-echo -e "\nUtilizar caracteres \nespeciales\t separadores"* 
+echo -e "\nUtilizar caracteres \nespeciales\t separadores"
+
