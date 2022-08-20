@@ -189,149 +189,46 @@ Ejemplos vistos en clase
 
 |**Imprimir en consola**|
 | --- |
-| [![chrome-4a-Sg1-Bt6b-I.png](https://i.postimg.cc/t4k1Q81z/chrome-4a-Sg1-Bt6b-I.png)](https://postimg.cc/CRZMbPsZ) |
+| [![chrome-J9a-YKLWglr.png](https://i.postimg.cc/BQqLYqbv/chrome-J9a-YKLWglr.png)](https://postimg.cc/CdQxdpjy) |
 
 |**Creación de variables**|
 | --- |
-#!/bin/bash
-NOMBRE="Mario"
-echo "Me llamo ${NOMBRE}"
-
-SERVER_NAME=$(hostname)
-echo "El script se ejecuta en ${SERVER_NAME}."
+| [![chrome-HHjet-U6w5-D.png](https://i.postimg.cc/tJymL1nJ/chrome-HHjet-U6w5-D.png)](https://postimg.cc/zbtjhGjY) |
 
 
 |**Operaciones Matemáticas**|
 | --- |
-#!/bin/bash
-# Sumar 2 números
-((sum=25+35))
-# Imprimir el resultado
-echo $sum
+| [![chrome-8h-F2u7-Yc-C5.png](https://i.postimg.cc/k452wsfg/chrome-8h-F2u7-Yc-C5.png)](https://postimg.cc/KKdc8n66) |
 
 |**IF**|
 | --- |
-||#!/bin/bash
-# Menor a
-n=10
-if [ $n -le 10 ];
-then
-echo "Número menor o igual a 10"
-else
-echo "Numero mayor a 10"
-fi||
-
-#!/bin/bash
-# Mayor que
-n=15
-if [ $n -gt 10 ];
-then
-echo "Numero mayor a 10"
-else
-echo "Numero menor a 10"
-fi
-
-#!/bin/bash
-# Igual a
-n=10
-if [ $n -eq 10 ];
-then
-echo "El numero es igual a 10"
-else
-echo "El numero no es 10"
-fi
-
-
-#!/bin/bash
-# Igual a
-nombre="Mario"
-salario=1000
-if [[ ($nombre == "Mario" && $salario -gt 2000 ) ]];
-then
-echo "Entró a la condición"
-else
-echo "No entro"
-fi
-
-if [ $n -eq 101 ];
-then
-echo "You got 1st prize"
-elif [ $n -eq 510 ];
-then
-echo "Sorry, try for the next time"
-fi
+| [![chrome-Dj-Vkcrr-TVK.png](https://i.postimg.cc/WzLdGkY9/chrome-Dj-Vkcrr-TVK.png)](https://postimg.cc/62c6wyXR) |
 
 
 |**Parámetros**|
 | --- |
-| #!/bin/bash
-echo "Total arguments : $#"
-echo "1st Argument = $1"
-echo "2nd argument = $2" |
-
+| [![chrome-XDBjm-Q3-UEc.png](https://i.postimg.cc/fRLR0CTz/chrome-XDBjm-Q3-UEc.png)](https://postimg.cc/BXr0rxKk) |
 
 |**For**|
 | --- |
-#!/bin/bash
-for (( counter=10; counter>0; counter-- ))
-do
-echo -n "$counter "
-done
-printf "\n"
+| [![chrome-D6-K7k-Hd-Yi-Z.png](https://i.postimg.cc/Nj5Q00pL/chrome-D6-K7k-Hd-Yi-Z.png)](https://postimg.cc/LJKcCmdM) |
 
-#!/bin/bash
-for i in $(cat users.txt)
-do
-	useradd $i; passwd -d $i
-	echo “-------- Usuario $i agregado ------”
-done
 
 
 |**While**|
 | --- |
-|#!/bin/bash
-valid=true
-count=1
-while [ $valid ]
-do
-    echo "Contando... " $count
-    if [ $count -eq 5 ];
-    then
-    break
-    fi
-((count++))
-done
-echo "Terminado"|
-
-
+| [![chrome-WG5u590e8x.png](https://i.postimg.cc/Kc0Xg2KT/chrome-WG5u590e8x.png)](https://postimg.cc/LhgQrG34) |
 
 |**Obtener entrada del usuario**|
 | --- |
-#!/bin/bash
-echo "Ingrese su nombre"
-read name
-echo "Bienvenido $name a Sistemas Operativos"
-
-#!/bin/bash
-zenity --entry --title "Name request" --text "Please enter your name:"
-
+| [![chrome-DEQt-Gq-Ukr4.png](https://i.postimg.cc/5NXrYFWc/chrome-DEQt-Gq-Ukr4.png)](https://postimg.cc/crNhPCJT) |
 
 
 |**Funciones**|
 | --- |
-
-| #!/bin/bash
-function F1()
-{
-echo 'I like bash programming'
-}
-F1 |
+| [![chrome-KN094iws-Af.png](https://i.postimg.cc/htF2Xy0x/chrome-KN094iws-Af.png)](https://postimg.cc/fJKcFvpT) |
 
 
 |**Leer archivos**|
 | --- |
-#!/bin/bash
-file='book.txt'
-while read line; do
-echo $line
-done < $file
+|[![chrome-si9z3x-F4p-J.png](https://i.postimg.cc/nr2QnLT0/chrome-si9z3x-F4p-J.png)](https://postimg.cc/bSGvTp7t)|
