@@ -188,8 +188,8 @@ Ejemplos vistos en clase
 
 | Código | Descripción  |
 | --- | --- |
-| #!/bin/bash /n /n
-echo "Nueva línea" /n
-echo "Imprimir en una linea nueva"/n
-echo -n "Imprimir en la misma línea"/n
+| #!/bin/bash 
+echo "Nueva línea" 
+echo "Imprimir en una linea nueva"
+echo -n "Imprimir en la misma línea"
 echo -e "\nUtilizar caracteres \nespeciales\t separadores" | Este comando funciona para saber la ip del dispositivo |
