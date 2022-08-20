@@ -201,3 +201,143 @@ echo -e "\nUtilizar caracteres \nespeciales\t separadores"|
 NOMBRE="Mario"
 echo "Me llamo ${NOMBRE}"
 
+SERVER_NAME=$(hostname)
+echo "El script se ejecuta en ${SERVER_NAME}."
+
+
+|**Operaciones Matemáticas**|
+| --- |
+#!/bin/bash
+# Sumar 2 números
+((sum=25+35))
+# Imprimir el resultado
+echo $sum
+
+|**IF**|
+| --- |
+#!/bin/bash
+# Menor a
+n=10
+if [ $n -le 10 ];
+then
+echo "Número menor o igual a 10"
+else
+echo "Numero mayor a 10"
+fi
+
+#!/bin/bash
+# Mayor que
+n=15
+if [ $n -gt 10 ];
+then
+echo "Numero mayor a 10"
+else
+echo "Numero menor a 10"
+fi
+
+#!/bin/bash
+# Igual a
+n=10
+if [ $n -eq 10 ];
+then
+echo "El numero es igual a 10"
+else
+echo "El numero no es 10"
+fi
+
+
+#!/bin/bash
+# Igual a
+nombre="Mario"
+salario=1000
+if [[ ($nombre == "Mario" && $salario -gt 2000 ) ]];
+then
+echo "Entró a la condición"
+else
+echo "No entro"
+fi
+
+if [ $n -eq 101 ];
+then
+echo "You got 1st prize"
+elif [ $n -eq 510 ];
+then
+echo "Sorry, try for the next time"
+fi
+
+
+|**Parámetros**|
+| --- |
+#!/bin/bash
+echo "Total arguments : $#"
+echo "1st Argument = $1"
+echo "2nd argument = $2"
+
+
+|**For**|
+| --- |
+#!/bin/bash
+for (( counter=10; counter>0; counter-- ))
+do
+echo -n "$counter "
+done
+printf "\n"
+
+#!/bin/bash
+for i in $(cat users.txt)
+do
+	useradd $i; passwd -d $i
+	echo “-------- Usuario $i agregado ------”
+done
+
+
+|**While**|
+| --- |
+#!/bin/bash
+valid=true
+count=1
+while [ $valid ]
+do
+    echo "Contando... " $count
+    if [ $count -eq 5 ];
+    then
+    break
+    fi
+((count++))
+done
+echo "Terminado"
+
+
+
+|**Obtener entrada del usuario**|
+| --- |
+#!/bin/bash
+echo "Ingrese su nombre"
+read name
+echo "Bienvenido $name a Sistemas Operativos"
+
+#!/bin/bash
+zenity --entry --title "Name request" --text "Please enter your name:"
+
+
+
+|**Funciones**|
+| --- |
+
+#!/bin/bash
+function F1()
+{
+echo 'I like bash programming'
+}
+
+F1
+
+
+|**Leer archivos**|
+| --- |
+#!/bin/bash
+file='book.txt'
+while read line; do
+echo $line
+done < $file
+
