@@ -148,6 +148,35 @@ Listar contenedores corriendo
 Mostrar todos los contenedores en ejecucion y los finalizados tambien 
 > *docker ps -a*
 
+Acceder contenedores ejecutandose
+> *docker exec -it xxxx bash*
+
+Detener contenedor ejecutandose
+> *docker stop xxxx*
+
+Detener inmediatamente la ejecution de un contenedor ejecutandose
+> *docker kill xxxx*
+
+Crear una una imagen de un contenedor editado localmente 
+> *docker commit xxxx xxxx/xxxx (idcontenedor usuario/nomreimagen)*
+
+Loguearse al repositorio de docker
+> *docker login*
+
+Enviar imagen al repositorio de docker
+> *docker push xxxx/xxxx (usuario/nombreimagen)*
+
+Listar todas las imagenes locales de docker
+> *docker images*
+
+Eliminar contenedor que ya fue detenido
+> *docker rm xxxx (idcontenedor)*
+
+Eliminar imagen desde almacenamiento local
+> *docker tmi xxxx  (idimagen)*
+
+Crear una imagen a partir de un archivo docker especifico
+> *docker build xxxx (pathalarchivodocker*
 
 
 
