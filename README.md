@@ -215,7 +215,7 @@ echo $sum
 
 |**IF**|
 | --- |
-#!/bin/bash
+||#!/bin/bash
 # Menor a
 n=10
 if [ $n -le 10 ];
@@ -223,7 +223,7 @@ then
 echo "Número menor o igual a 10"
 else
 echo "Numero mayor a 10"
-fi
+fi||
 
 #!/bin/bash
 # Mayor que
