@@ -9,9 +9,7 @@ ULACIT <br>
 2022
 </div>
 
-| Comando | Descripción o Funcionalidad |
-| --- | --- |
-| Ip addr  | Este comando funciona para saber la ip del dispositivo |
+
 
 ## _Comandos_
 
@@ -186,3 +184,12 @@ Crear una imagen a partir de un archivo docker especifico
 
 ## Bash 
 
+Ejemplos vistos en clase
+
+| Código | Descripción  |
+| --- | --- |
+| #!/bin/bash /n /n
+echo "Nueva línea" /n
+echo "Imprimir en una linea nueva"/n
+echo -n "Imprimir en la misma línea"/n
+echo -e "\nUtilizar caracteres \nespeciales\t separadores" | Este comando funciona para saber la ip del dispositivo |
